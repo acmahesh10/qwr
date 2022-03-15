@@ -1,0 +1,28 @@
+#main-content {
+    padding: 210px 20px;
+    width: 100%;
+    margin: auto;
+    text-align: center;
+    background-image: url(../../assets/bg-home.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+#main-content>h1 {
+    font-size: 50px;
+    font-weight: 100;
+    font-family: Georgia, 'Times New Roman', Times, serif ;
+}
+
+#main-content>span {
+    font-size: 17px;
+    /* font-weights:bold; */
+    opacity: 0.7;
+    font-style: italic;
+}
+
+#main-content>a {
+    margin-top: 30px;
+    padding: 10px 20px;
+}

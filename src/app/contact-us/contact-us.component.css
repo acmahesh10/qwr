@@ -1,0 +1,19 @@
+.contact-us-content {
+    width: 80%;
+    margin: 0% 10%;
+    /* color: white; */
+    padding-left: 300px;
+    padding-top: 3%;
+    
+
+}
+
+.container{
+    background-image: url(../../assets/bg-contact.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 300%;
+    height: 590px;
+    margin-left: 0;
+    max-width: 1350px;
+}
